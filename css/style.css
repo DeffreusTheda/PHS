@@ -122,7 +122,7 @@ li{
     margin-left: 40px;
 }
 
-    
+
 .header_item{
     position: relative;
     cursor: pointer;
@@ -222,7 +222,7 @@ li{
     order: 2;
     z-index: 1;
     display: flex;
-    mix-blend-mode: multiply;    
+    mix-blend-mode: multiply;
 }
 .intro{
     display: table;
@@ -234,7 +234,7 @@ li{
     font-size: 6.25vw;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: .24em;    
+    letter-spacing: .24em;
 }
 .para{
     color: var(--accent-color);
